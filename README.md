@@ -1,5 +1,5 @@
 # Intro
-Arduino-based balancing_robot, from utter scratch  
+Arduino-based balancing robot, from utter scratch  
 
   
 I hate my life
