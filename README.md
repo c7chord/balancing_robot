@@ -40,18 +40,16 @@ Battery : [coms 24V 3A](https://www.coupang.com/vp/products/6761147603?itemId=15
 
 # CAD
 the files are on the models folder : .stp, .CATProduct, .SLDASM  
-
-![image](https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b)
+<img src="https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b" width="800">  
 
 # Communication Diagram
-
-Diagram for wiring & communication
-![image](https://github.com/user-attachments/assets/ca0b048f-2eb5-48bb-8f68-40d9d4971ba6)
-red : Power train
+**Diagram for wiring & communication**  
+<img src="https://github.com/user-attachments/assets/ca0b048f-2eb5-48bb-8f68-40d9d4971ba6" width="1000">  
+red : Power train  
 blue : Communication
 
-Diagram for logic
-![image](https://github.com/user-attachments/assets/b378d3ac-ae88-4715-8365-010987db7762)
+**Diagram for logic**  
+<img src="https://github.com/user-attachments/assets/b378d3ac-ae88-4715-8365-010987db7762" width="1000">  
 oragne : Inner PID loop    
 red : Outer PID loop  
 blue : Human expererience
@@ -60,12 +58,12 @@ blue : Human expererience
 [![Video Label](https://github.com/user-attachments/assets/e69b6bc8-4ccc-4300-9a95-97ef5d8b9e3e)](https://www.youtube.com/shorts/0yKNOIgKEw8?si=WzQcaBdiawOKCOyA)
 
 # Some Photos
-![image](https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55)
-![image](https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009)
+<img src="https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55" width="500">
+<img src="https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009" width="500">
 
 # TO-DO
 1. PCB integration
-![image](https://github.com/user-attachments/assets/5dd9b5f5-c43d-4ed6-b806-f62461ed27d9)
-![image](https://github.com/user-attachments/assets/3f1b456c-2aea-454e-8a12-a100a7784bf8)
+<img src="https://github.com/user-attachments/assets/5dd9b5f5-c43d-4ed6-b806-f62461ed27d9" width="500">
+<img src="https://github.com/user-attachments/assets/3f1b456c-2aea-454e-8a12-a100a7784bf8" width="500">
 
 
