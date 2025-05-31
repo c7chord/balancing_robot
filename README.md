@@ -39,10 +39,10 @@ wheels : [Ø100 wheel](https://kr.misumi-ec.com/vona2/detail/221000193783/?Produ
 Battery : [coms 24V 3A](https://www.coupang.com/vp/products/6761147603?itemId=15845511242&vendorItemId=83792381924&src=1042503&spec=10304025&addtag=400&ctag=6761147603&lptag=6761147603-15845511242&itime=20250531162122&pageType=PRODUCT&pageValue=6761147603&wPcid=17369392389484159327326&wRef=&wTime=20250531162122&redirect=landing&gclid=Cj0KCQjw0erBBhDTARIsAKO8iqRPxm5TNP5QtiZhhECka1vpn2KdWHgOK1eWB05oxIEn7RVgEn0xRuoaAqtkEALw_wcB&mcid=64c3aae965194f1b8afdfc962537f89e&campaignid=21519412236&adgroupid=)
 
 # CAD
-the files are on the models folder : .stp, .CATProduct, .SLDASM  
+the files are in the models folder : .stp, .CATProduct, .SLDASM  
 <img src="https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b" width="800">  
 
-# Communication Diagram
+# Diagram
 **Diagram for wiring & communication**  
 <img src="https://github.com/user-attachments/assets/ca0b048f-2eb5-48bb-8f68-40d9d4971ba6" width="1000">  
 red : Power train  
