@@ -58,12 +58,12 @@ blue : Human expererience
 [![Video Label](https://github.com/user-attachments/assets/e69b6bc8-4ccc-4300-9a95-97ef5d8b9e3e)](https://www.youtube.com/shorts/0yKNOIgKEw8?si=WzQcaBdiawOKCOyA)
 
 # Some Photos
-<img src="https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55" width="500">
-<img src="https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009" width="500">
+<img src="https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55" width="400">
+<img src="https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009" width="400">
 
 # TO-DO
 1. PCB integration
-<img src="https://github.com/user-attachments/assets/5dd9b5f5-c43d-4ed6-b806-f62461ed27d9" width="500">
-<img src="https://github.com/user-attachments/assets/3f1b456c-2aea-454e-8a12-a100a7784bf8" width="500">
+<img src="https://github.com/user-attachments/assets/5dd9b5f5-c43d-4ed6-b806-f62461ed27d9" width="400">
+<img src="https://github.com/user-attachments/assets/3f1b456c-2aea-454e-8a12-a100a7784bf8" width="400">
 
 
