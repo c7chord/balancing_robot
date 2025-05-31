@@ -43,7 +43,6 @@ the files are on the models folder : .stp, .CATProduct, .SLDASM
 
 ![image](https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b)
 
-
 # Communication Diagram
 
 Diagram for wiring & communication
@@ -51,16 +50,16 @@ Diagram for wiring & communication
 red : Power train
 blue : Communication
 
-
 Diagram for logic
 ![image](https://github.com/user-attachments/assets/b378d3ac-ae88-4715-8365-010987db7762)
 oragne : Inner PID loop    
 red : Outer PID loop  
 blue : Human expererience
 
-# Photos, videos
+# Demo video
+[![Video Label](https://github.com/user-attachments/assets/e69b6bc8-4ccc-4300-9a95-97ef5d8b9e3e)](https://www.youtube.com/shorts/0yKNOIgKEw8?si=WzQcaBdiawOKCOyA)
 
-
+# Some Photos
 ![image](https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55)
 ![image](https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009)
 
