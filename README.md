@@ -20,13 +20,13 @@ it includes the following headers.
 
 # BOM
 
-MCU : [ESP32 WROOM-32E module](https://www.google.com/search?q=esp32+wroom+datasheet&sca_esv=b5e030dce8bbb8a8&ei=2qg6aMeVNt-n2roP-aG38QU&oq=esp32+wroom+data&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGVzcDMyIHdyb29tIGRhdGEqAggAMgUQABiABDIFEAAYgAQyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeSLkGUDZYrwNwAXgBkAEAmAHQAaABmgaqAQUwLjQuMbgBAcgBAPgBAZgCBqACwQbCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBZgDAIgGAZAGCpIHBTEuNC4xoAf5H7IHBTAuNC4xuAe8BsIHBTItNS4xyAcj&sclient=gws-wiz-serp) (UART communication with motor, I2C communication with IMU, bluetooth communication with dualshock 4)
+MCU : [ESP32 WROOM-32E module](https://www.google.com/search?q=esp32+wroom+datasheet&sca_esv=b5e030dce8bbb8a8&ei=2qg6aMeVNt-n2roP-aG38QU&oq=esp32+wroom+data&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGVzcDMyIHdyb29tIGRhdGEqAggAMgUQABiABDIFEAAYgAQyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeSLkGUDZYrwNwAXgBkAEAmAHQAaABmgaqAQUwLjQuMbgBAcgBAPgBAZgCBqACwQbCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBZgDAIgGAZAGCpIHBTEuNC4xoAf5H7IHBTAuNC4xuAe8BsIHBTItNS4xyAcj&sclient=gws-wiz-serp) 
 
 IDE : Arduino IDE (supports ESP32 module bia board manager)  
 
-IMU : [MPU6050](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf) (I2C communication)
+IMU : [MPU6050](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf) 
 
-motor : [xiaomi cybergear](https://github.com/belovictor/cybergear-docs) (CAN communication)  
+motor : [xiaomi cybergear](https://github.com/belovictor/cybergear-docs) 
 
 CAN to UART : [CANBus Unit(CA-IS3050G)](https://shop.m5stack.com/products/canbus-unitca-is3050g?srsltid=AfmBOoo45a3Z4aiPm0DFpa_wk6L1i1zsp_HxvBCnvUw1hWO9vbXH9BUA)  
 
@@ -46,5 +46,27 @@ the files are on the models folder : .stp, .CATProduct, .SLDASM
 
 # Communication Diagram
 
+Diagram for wiring & communication
+![image](https://github.com/user-attachments/assets/ca0b048f-2eb5-48bb-8f68-40d9d4971ba6)
+red : Power train
+blue : Communication
 
-# Functionallity
+
+Diagram for logic
+![image](https://github.com/user-attachments/assets/b378d3ac-ae88-4715-8365-010987db7762)
+oragne : Inner PID loop    
+red : Outer PID loop  
+blue : Human expererience
+
+# Photos, videos
+
+
+![image](https://github.com/user-attachments/assets/d677fda0-eca6-4935-aa0a-5d9cac4aef55)
+![image](https://github.com/user-attachments/assets/4383606e-8685-4943-bc71-b843edf0f009)
+
+# TO-DO
+1. PCB integration
+![image](https://github.com/user-attachments/assets/5dd9b5f5-c43d-4ed6-b806-f62461ed27d9)
+![image](https://github.com/user-attachments/assets/3f1b456c-2aea-454e-8a12-a100a7784bf8)
+
+
