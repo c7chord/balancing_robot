@@ -40,7 +40,8 @@ Battery : [coms 24V 3A](https://www.coupang.com/vp/products/6761147603?itemId=15
 
 # CAD
 the files are in the models folder : .stp, .CATProduct, .SLDASM  
-<img src="https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b" width="800">  
+<!-- <img src="https://github.com/user-attachments/assets/fb096a44-df72-425c-9a0b-45032a784a4b" width="800"> -->  
+![KakaoTalk_20250716_113651418](https://github.com/user-attachments/assets/1ed4ef1a-bcac-4bd0-9969-9ce4fabfabf0)
 
 # Diagram
 **Diagram for wiring & communication**  
